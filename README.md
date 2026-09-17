@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Welcome&animation=fadeIn&type=waving&color=gradient&height=150&fontAlignY=35&fontAlign=70"/>
+  <img src="https://capsule-render.vercel.app/api?text=Welcome&fontColor=FFFFFF&animation=fadeIn&type=waving&color=124075&height=150&fontAlignY=35&fontAlign=70"/>
 </p>
 
 
@@ -26,7 +26,7 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?animation=fadeIn&type=waving&color=gradient&height=120&fontAlignY=35&fontAlign=70&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?animation=fadeIn&type=waving&color=0066FF&height=120&fontAlignY=35&fontAlign=70&section=footer"/>
 </p>
 
 [![My Project](https://formscan.streamlit.app/)](https://github.com/WalrusIII/FormScan)
