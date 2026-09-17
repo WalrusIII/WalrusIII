@@ -4,7 +4,7 @@
 
 
 ## Hi there 👋
-<p align="center">
+<p align="left">
   I'm a recent Computer Science graduate and 6-year customer-facing professional moving into Solutions Engineering / Forward Deployed Engineering. I build with Python, RAG pipelines, vector stores, and agentic multi-step reasoning, and pair hands-on AI project work with years of translating ambiguous customer problems into working solutions in front of clients.
 </p>
 
@@ -29,7 +29,7 @@
   <img src="https://capsule-render.vercel.app/api?animation=fadeIn&type=waving&color=gradient&height=120&fontAlignY=35&fontAlign=70&section=footer"/>
 </p>
 
-
+[![My Project](https://formscan.streamlit.app/)](https://github.com/WalrusIII/FormScan)
 
 
 
