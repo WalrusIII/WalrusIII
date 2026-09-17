@@ -2,7 +2,22 @@
   <img src="https://capsule-render.vercel.app/api?text=Welcome&animation=fadeIn&type=waving&color=gradient&height=150&fontAlignY=35&fontAlign=70"/>
 </p>
 
+
 ## Hi there 👋
+
+<p align="center">
+  Languages:
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,java,c,cpp,html,bash,css,sqlite" />
+  </a>
+</p>
+
+<p align="center">
+  Tools/IDEs/OSs:
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,git,aws,nginx,mysql,mongodb,express,postgres,linux,apple,windows,vscode,raspberrypi" />
+  </a>
+</p>
 
 Languages:
 [![My Skills](https://skillicons.dev/icons?i=py,js,java,c,cpp,html,bash,css,sqlite&perline=3)](https://skillicons.dev)
