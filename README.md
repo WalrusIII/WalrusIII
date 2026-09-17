@@ -11,7 +11,7 @@ Tools/IDEs:
 vscode mongodb mysql nodejs streamlit linux git bash figma aws colab
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?animation=fadeIn&type=waving&color=gradient&height=150&fontAlignY=35&fontAlign=70&rotate=180"/>
+  <img src="https://capsule-render.vercel.app/api?animation=fadeIn&type=waving&color=gradient&height=150&fontAlignY=35&fontAlign=70&section=footer"/>
 </p>
 
 
