@@ -4,6 +4,10 @@
 
 
 ## Hi there 👋
+<p align="center">
+  I'm a recent Computer Science graduate and 6-year customer-facing professional moving into Solutions Engineering / Forward Deployed Engineering. I build with Python, RAG pipelines, vector stores, and agentic multi-step reasoning, and pair hands-on AI project work with years of translating ambiguous customer problems into working solutions in front of clients.
+</p>
+
 
 <p align="center">
   Languages:<br></br>
