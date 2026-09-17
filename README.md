@@ -4,7 +4,11 @@
 
 ## Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=py,js,java,c,cpp,html,bash,nodejs,git,aws,nginx,css,mysql,mongodb,express,postgres,linux,vscode,raspberrypi)](https://skillicons.dev)
+Languages:
+[![My Skills](https://skillicons.dev/icons?i=py,js,java,c,cpp,html,bash,css,sqlite&perline=3)](https://skillicons.dev)
+
+Tools/IDEs/OSs
+[![My Skills](https://skillicons.dev/icons?i=nodejs,git,aws,nginx,mysql,mongodb,express,postgres,linux,vscode,raspberrypi&perline=3)](https://skillicons.dev)
 
 Languages:
 python java cLang cplusplus javascript sql html css3
