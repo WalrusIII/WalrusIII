@@ -4,6 +4,8 @@
 
 ## Hi there 👋
 
+[![My Skills](https://skillicons.dev/icons?i=py,js,java,c,cpp,html,bash,nodejs,git,aws,nginx,css,mysql,mongodb,express,postgres,linux,vscode,raspberrypi)](https://skillicons.dev)
+
 Languages:
 python java cLang cplusplus javascript sql html css3
 
@@ -11,7 +13,7 @@ Tools/IDEs:
 vscode mongodb mysql nodejs streamlit linux git bash figma aws colab
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?animation=fadeIn&type=waving&color=gradient&height=150&fontAlignY=35&fontAlign=70&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?animation=fadeIn&type=waving&color=gradient&height=120&fontAlignY=35&fontAlign=70&section=footer"/>
 </p>
 
 
