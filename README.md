@@ -3,19 +3,43 @@
 </p>
 
 
-## Get in touch with me
-[![LinkedIn](https://unblast.com/wp-content/uploads/2026/06/linkedin-logo.jpg =300x200)](https://www.linkedin.com/in/grady-walworth/)
+## Get In Touch!
 <p align="left">
+  [My LinkedIn](https://www.linkedin.com/in/grady-walworth/)
   email: gradywalworth@gmail.com
   <br></br>
 </p>
 
-
+## Who am I?
 <p align="left">
-  I'm a recent Computer Science graduate and 6-year customer-facing professional moving into Sales/Solutions Engineering and Forward Deployed Engineering. I build with Python, RAG pipelines, vector stores, and agentic multi-step reasoning, and pair hands-on AI project work with years of translating ambiguous customer problems into working solutions in front of clients.
+  My name is Grady Walworth, and I'm a recent Computer Science graduate and 6-year customer-facing professional moving into Sales/Solutions Engineering and Forward Deployed Engineering. I build with Python, RAG pipelines, vector stores, and agentic multi-step reasoning, and pair hands-on AI project work with years of translating ambiguous customer problems into working solutions in front of clients.
 </p>
 
+```
+name: Grady Walworth
+located_in: San Francisco, CA
+desired_roles:
+  [
+    Sales/Solutions Engineer,
+    Forward Deployed Engineer,
+    Customer Success Engineer,
+  ]
+experience: 6+ years of Operations and Outbound Support in Biotech (Exact Sciences)
+education: Bachelor's in Computer Science
+areas_of_interest:
+  [
+    AI Development,
+    Post Sales Integration,
+    Pre-Sales Demo/POC,
+    UI/UX,
+    Health-tech,
+    Biotechnology,
+    Dev-Ops,
+  ]
+hobbies: [Soccer, Golf, Tennis, Snowboarding, Guitar, Music]
+```
 
+## Skills, Languages, and Tools
 <p align="center">
   Languages:<br></br>
   <a href="https://skillicons.dev">
