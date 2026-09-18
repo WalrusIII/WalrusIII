@@ -4,9 +4,10 @@
 
 
 ## Get in touch with me
-[![LinkedIn|30%](https://unblast.com/wp-content/uploads/2026/06/linkedin-logo.jpg)](https://www.linkedin.com/in/grady-walworth/)
+[![LinkedIn](https://unblast.com/wp-content/uploads/2026/06/linkedin-logo.jpg =300x200)](https://www.linkedin.com/in/grady-walworth/)
 <p align="left">
   email: gradywalworth@gmail.com
+  <br></br>
 </p>
 
 
