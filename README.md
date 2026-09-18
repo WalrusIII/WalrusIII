@@ -5,7 +5,7 @@
 
 ## Get In Touch!
 <p align="left">
-  [![LinkedIn](https://shields.io)]([https://linkedin.com](https://www.linkedin.com/in/grady-walworth/))<br></br>
+  [![LinkedIn](https://shields.io)](https://www.linkedin.com/in/grady-walworth/)<br></br>
   email: gradywalworth@gmail.com
   <br></br>
 </p>
