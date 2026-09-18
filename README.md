@@ -8,6 +8,8 @@
   <a href="https://www.linkedin.com/in/grady-walworth/" target="_blank">
     <img src="https://i.sstatic.net/gVE0j.png" alt="LinkedIn" height="30" width="40" > LinkedIn
   </a>
+  [![LinkedIn](https://shields.io)](https://linkedin.com)
+
   <br></br>
   email: gradywalworth@gmail.com
   <br></br>
