@@ -6,8 +6,9 @@
 ## Get In Touch!
 <p align="left">
   <a href="https://www.linkedin.com/in/grady-walworth/" target="_blank">
-    <img src="https://githubusercontent.com" alt="LinkedIn" height="30" width="40" />
+    <img src="https://i.sstatic.net/gVE0j.png" alt="LinkedIn" height="30" width="40" > LinkedIn
   </a>
+  <br></br>
   email: gradywalworth@gmail.com
   <br></br>
 </p>
