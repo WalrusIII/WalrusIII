@@ -4,17 +4,14 @@
 
 
 ## Get In Touch!
-[![LinkedIn](https://shields.io)](https://linkedin.com)
+
 <p align="left">
   <a href="https://www.linkedin.com/in/grady-walworth/" target="_blank">
-    <img src="https://i.sstatic.net/gVE0j.png" alt="LinkedIn" height="30" width="40" > LinkedIn
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" />
   </a>
-  
-
-  <br></br>
-  email: gradywalworth@gmail.com
-  <br></br>
 </p>
+
+📫 <strong>Email:</strong> gradywalworth@gmail.com
 
 ## Who am I?
 <p align="left">
