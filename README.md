@@ -3,9 +3,15 @@
 </p>
 
 
-## Hi there 👋
+## Get in touch with me
+[![LinkedIn](https://unblast.com/wp-content/uploads/2026/06/linkedin-logo.jpg)](https://www.linkedin.com/in/grady-walworth/)
 <p align="left">
-  I'm a recent Computer Science graduate and 6-year customer-facing professional moving into Solutions Engineering / Forward Deployed Engineering. I build with Python, RAG pipelines, vector stores, and agentic multi-step reasoning, and pair hands-on AI project work with years of translating ambiguous customer problems into working solutions in front of clients.
+  gradywalworth@gmail.com
+</p>
+
+
+<p align="left">
+  I'm a recent Computer Science graduate and 6-year customer-facing professional moving into Sales/Solutions Engineering and Forward Deployed Engineering. I build with Python, RAG pipelines, vector stores, and agentic multi-step reasoning, and pair hands-on AI project work with years of translating ambiguous customer problems into working solutions in front of clients.
 </p>
 
 
