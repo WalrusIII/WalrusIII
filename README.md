@@ -42,41 +42,63 @@ areas_of_interest:
 hobbies: [Soccer, Golf, Tennis, Snowboarding, Guitar, Music]
 ```
 
+## Featured Projects
+
+### [FormScan AI: Human-in-the-Loop Document Extraction](https://github.com/WalrusIII/FormScan) · [🔗 Live Demo](https://formscan.streamlit.app/)
+**Python · Claude Vision API · Streamlit**  
+An AI tool that extracts structured data from photos of handwritten medical forms and
+flags low-confidence fields for human review. Uses per-field confidence scoring biased
+toward flagging to minimize silent errors, enforces reliable output with tool-use schemas
+instead of free-text JSON parsing, and pairs it with a side-by-side Streamlit UI that
+surfaces the model's reasoning and captures human corrections as confirmed data.
+
+### [YourWords: AI Grammar Assistant](REPO_URL)
+**Python · LLaMA 3.1 8B · llama-cpp-python · FAISS**  
+A retrieval-augmented grammar assistant that runs a four-stage agent pipeline — spell
+check, correction, grammar check, and final pass — over a FAISS vector store of grammar
+rules. Prompt constraints and regex post-processing filter hallucinated edits and verify
+each flagged word actually appears in the input, tuned for deterministic, low-hallucination output.
+
+### [EduGator: Peer-Tutoring Platform](https://github.com/WalrusIII/EduGator)
+**Node.js · Express · MySQL · Session-based Auth**  
+A full-stack tutoring marketplace for SFSU students — tutor search, session booking,
+in-app messaging, and calendars — with bcrypt-hashed passwords and server-side sessions.
+Led a six-person team as Team Lead through the full software-engineering lifecycle, from
+requirements and architecture through to deployment.
+
 ## Skills, Languages, and Tools
+
 <p align="center">
-  Languages:<br></br>
+  <strong>AI / ML &amp; Data</strong><br>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/LLaMA_3.1-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="LLaMA" />
+  <img src="https://img.shields.io/badge/RAG-5A4FCF?style=for-the-badge" alt="RAG" />
+  <img src="https://img.shields.io/badge/FAISS-005571?style=for-the-badge" alt="FAISS" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+</p>
+
+<p align="center">
+  <strong>Languages</strong><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,java,c,cpp,html,bash,css,sqlite" />
+    <img src="https://skillicons.dev/icons?i=py,js,java,c,cpp,r,html,bash" />
   </a>
 </p>
 
 <p align="center">
-  Tools/IDEs/OSs:<br></br>
+  <strong>Web, Tools &amp; Infrastructure</strong><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,git,aws,nginx,mysql,mongodb,express,postgres,linux,apple,windows,vscode,raspberrypi" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,git,github,aws,nginx,linux,vscode" />
   </a>
 </p>
 
 
-
+<!--
+Ending animation
+-->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?animation=fadeIn&type=waving&color=FF6600&height=120&fontAlignY=35&fontAlign=70&section=footer"/>
 </p>
 
 
-
-
-<!--
-**WalrusIII/WalrusIII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
