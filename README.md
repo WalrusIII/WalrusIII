@@ -7,7 +7,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/grady-walworth/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="LinkedIn" />
   </a>
 </p>
 
