@@ -52,7 +52,7 @@ toward flagging to minimize silent errors, enforces reliable output with tool-us
 instead of free-text JSON parsing, and pairs it with a side-by-side Streamlit UI that
 surfaces the model's reasoning and captures human corrections as confirmed data.
 
-### [YourWords: AI Grammar Assistant](REPO_URL)
+### [YourWords: AI Grammar Assistant](https://github.com/WalrusIII/YourWords) · [🔗 Live Demo](https://yourwordsai.streamlit.app/)
 **Python · LLaMA 3.1 8B · llama-cpp-python · FAISS**  
 A retrieval-augmented grammar assistant that runs a four-stage agent pipeline — spell
 check, correction, grammar check, and final pass — over a FAISS vector store of grammar
